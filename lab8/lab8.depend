@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1527083421 source:c:\users\lubimoff\desktop\project\2 semester\oop\lab8\main.cpp
+	<iostream>
+	<vector>
+	<iterator>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+

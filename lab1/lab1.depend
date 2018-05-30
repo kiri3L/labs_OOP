@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1527088618 source:c:\users\lubimoff\desktop\project\2 semester\oop\lab1\main.cpp
+	<iostream>
+	"MyClasses.cpp"
+
+1527088597 c:\users\lubimoff\desktop\project\2 semester\oop\lab1\myclasses.h
+	<iostream>
+
+1527088490 c:\users\lubimoff\desktop\project\2 semester\oop\lab1\myclasses.cpp
+	"MyClasses.h"
+
